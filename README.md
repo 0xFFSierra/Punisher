@@ -2,7 +2,7 @@
 # Punisher
 
 <p align="center">
-  <img src="img/Punisher-Logo.png" alt="Punisher Logo" width="300">
+  <img src="img/Punisher-Logo.png" alt="Punisher Logo" width="600">
 </p>
 
 **Punisher** is an advanced, AI-powered network defense tool designed to monitor, detect, and neutralize wireless threats within your internal network. Leveraging real-time packet analysis and reinforcement learning, Punisher adapts to evolving threats and optimizes its responses to secure your environment.
